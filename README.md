@@ -3,7 +3,7 @@
 **Student:** _Name_ · **Roll No:** _23I2022_ · **Section:** _A_ · **Course:** CS4032 Web Programming, Assignment 02 (Fall 2026)
 
 - **GitHub:** _https://github.com/Umar0502/tiffinlab_
-- **Deployment:**[ _https://your-app.vercel.app_](https://tiffinlab-react-iota.vercel.app/)
+- **Deployment:**_https://tiffinlab-react-iota.vercel.app/_
 - **Final commit hash:** 5380c95f2dd2ae0e26c92e5a9127b48c53af7fc4
 
 ## Description
