@@ -3,8 +3,8 @@
 **Student:** _Name_ · **Roll No:** _23I2022_ · **Section:** _A_ · **Course:** CS4032 Web Programming, Assignment 02 (Fall 2026)
 
 - **GitHub:** _https://github.com/Umar0502/tiffinlab_
-- **Deployment:** _https://your-app.vercel.app_
-- **Final commit hash:** 78172a6b57f80434bedf7314a79c8fc640ef599d
+- **Deployment:**[ _https://your-app.vercel.app_](https://tiffinlab-react-iota.vercel.app/)
+- **Final commit hash:** 5380c95f2dd2ae0e26c92e5a9127b48c53af7fc4
 
 ## Description
 TiffinLab is a fictional meal-prep service for students and professionals in Islamabad. Customers browse 12 meals and weekly bundles, search and filter, open a details page, build a box, enter delivery details, review a calculated summary and reach a confirmation. **All operations are simulated.** No payment, no real orders, no data leaves the browser.
